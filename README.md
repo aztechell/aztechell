@@ -30,9 +30,9 @@
 
 ## Knowledge
 
-- [legosport](https://github.com/aztechell/legosport) - уроки EV3.
-- [AI-in-robotics](https://github.com/aztechell/AI-in-robotics) - простые уроки по ИИ в робототехнике. [Live](https://aztechell.github.io/AI-in-robotics/)
+- [AI-in-robotics](https://github.com/aztechell/AI-in-robotics) - простые уроки по ИИ в робототехнике. [Live](https://aztechell.github.io/AI-in-robotics/) [ai-in-robo.xyz](https://ai-in-robo.xyz/)
 - [Pybricks-Cookbook](https://github.com/aztechell/Pybricks-Cookbook) - шпаргалки и примеры по Pybricks. [Live](https://aztechell.github.io/Pybricks-Cookbook/)
+- [legosport](https://github.com/aztechell/legosport) - уроки EV3.
 - [matrix_r4_experiments](https://github.com/aztechell/matrix_r4_experiments) - информация по MATRIX R4. [Live](https://aztechell.github.io/matrix_r4_experiments/)
 - [joystick-explained](https://github.com/aztechell/joystick-explained) - объяснение работы джойстика.
 - [ru_Train-and-Deploy-YOLO-Models](https://github.com/aztechell/ru_Train-and-Deploy-YOLO-Models) - материалы по обучению и деплою YOLO.
