@@ -41,6 +41,7 @@
 
 - [xACT](https://github.com/aztechell/xACT) - action-based framework для миссий робота.
 - [Biathlon xAct](https://github.com/aztechell/biathlon-xAct) - браузерный редактор для написания кода на xACT для биатлона. [Live](https://aztechell.github.io/biathlon-xAct/)
+- [fsm-pybricks-designer](https://github.com/aztechell/fsm-pybricks-designer) - браузерный редактор FSM для проектов на Pybricks с генерацией MicroPython-кода.
 - [pybricks-hub-tester](https://github.com/aztechell/pybricks-hub-tester) - браузерный dashboard для тестирования Pybricks-хабов через Web Bluetooth. [Live](https://aztechell.github.io/pybricks-hub-tester/)
 - [pdf-scripts](https://github.com/aztechell/pdf-scripts) - маленькие PDF-скрипты.
 - [Label_Studio_Launcher](https://github.com/aztechell/Label_Studio_Launcher) - launcher для Label Studio.
