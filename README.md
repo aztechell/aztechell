@@ -10,6 +10,7 @@
 
 - [WRO_Ruller](https://github.com/aztechell/WRO_Ruller) - линейка для карт WRO. [Live](https://aztechell.github.io/WRO_Ruller/)
 - [esp32cam-wro2026-mosaic-reader](https://github.com/aztechell/esp32cam-wro2026-mosaic-reader) - чтение мозаики WRO 2026 через ESP32-CAM.
+- [wro-2026-junior-artifacts](https://github.com/aztechell/wro-2026-junior-artifacts) - статический симулятор для тестирования псевдокода WRO 2026 Junior RoboMission.
 - [femap](https://github.com/aztechell/femap) - рандомизатор FE WRO. [Live](https://aztechell.github.io/femap/)
 - [fe-2025-links](https://github.com/aztechell/fe-2025-links) - ссылки на репозитории WRO FE 2025.
 
