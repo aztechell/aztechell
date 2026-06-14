@@ -51,3 +51,5 @@
 
 - [KazPER](https://github.com/aztechell/KazPER) - Tinder-style выбор казахских имен. [Live](https://aztechell.github.io/KazPER/)
 - [PyGameMaze](https://github.com/aztechell/PyGameMaze) - игра на PyGame.
+
+<img src="assets/robototechnika.png" alt="Робототехника" width="100%">
