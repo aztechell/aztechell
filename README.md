@@ -14,6 +14,13 @@
 - [femap](https://github.com/aztechell/femap) - рандомизатор FE WRO. [Live](https://aztechell.github.io/femap/)
 - [fe-2025-links](https://github.com/aztechell/fe-2025-links) - ссылки на репозитории WRO FE 2025.
 
+## HASKYLENS
+
+- [doom_on_huskylens](https://github.com/aztechell/doom_on_huskylens) - порт DOOM для HuskyLens с браузерным прошивальщиком. [Live](https://aztechell.github.io/doom_on_huskylens/)
+- [hackylens](https://github.com/aztechell/hackylens) - открытая модульная прошивка для HUSKYLENS и Kendryte K210.
+- [HLWF-desktop](https://github.com/aztechell/HLWF-desktop) - офлайн-прошивальщик для HuskyLens на Windows.
+- [HLWF](https://github.com/aztechell/HLWF) - браузерный Web Serial-прошивальщик для HuskyLens и Kendryte K210. [Live](https://aztechell.github.io/HLWF/)
+
 ## Arduino / ESP
 
 - [HY-S301-Pybricks](https://github.com/aztechell/HY-S301-Pybricks) - 8-канальный датчик линии HY-S301 для SPIKE Prime / Pybricks.
