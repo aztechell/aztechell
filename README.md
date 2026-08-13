@@ -18,6 +18,8 @@
 
 - [doom_on_huskylens](https://github.com/aztechell/doom_on_huskylens) - порт DOOM для HuskyLens с браузерным прошивальщиком. [Live](https://aztechell.github.io/doom_on_huskylens/)
 - [hackylens](https://github.com/aztechell/hackylens) - открытая модульная прошивка для HUSKYLENS и Kendryte K210.
+- [hackylens-code](https://github.com/aztechell/hackylens-code) - браузерная IDE для прошивки HackyLens.
+- [huskylens-isp-stub](https://github.com/aztechell/huskylens-isp-stub) - открытый загрузчик K210 ISP для HuskyLens.
 - [HLWF-desktop](https://github.com/aztechell/HLWF-desktop) - офлайн-прошивальщик для HuskyLens на Windows.
 - [HLWF](https://github.com/aztechell/HLWF) - браузерный Web Serial-прошивальщик для HuskyLens и Kendryte K210. [Live](https://aztechell.github.io/HLWF/)
 
@@ -53,6 +55,10 @@
 - [pybricks-hub-tester](https://github.com/aztechell/pybricks-hub-tester) - браузерный dashboard для тестирования Pybricks-хабов через Web Bluetooth. [Live](https://aztechell.github.io/pybricks-hub-tester/)
 - [pdf-scripts](https://github.com/aztechell/pdf-scripts) - маленькие PDF-скрипты.
 - [Label_Studio_Launcher](https://github.com/aztechell/Label_Studio_Launcher) - launcher для Label Studio.
+
+## APPS
+
+- [azdeck](https://github.com/aztechell/azdeck) - руководство и примеры прошивок для подключения ESP32 и ESP8266 к приложению AzDeck.
 
 ## Other stuff
 
