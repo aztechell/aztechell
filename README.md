@@ -14,7 +14,7 @@
 - [femap](https://github.com/aztechell/femap) - рандомизатор FE WRO. [Live](https://aztechell.github.io/femap/)
 - [fe-2025-links](https://github.com/aztechell/fe-2025-links) - ссылки на репозитории WRO FE 2025.
 
-## HASKYLENS
+## HUSKYLENS/K210
 
 - [doom_on_huskylens](https://github.com/aztechell/doom_on_huskylens) - порт DOOM для HuskyLens с браузерным прошивальщиком. [Live](https://aztechell.github.io/doom_on_huskylens/)
 - [hackylens](https://github.com/aztechell/hackylens) - открытая модульная прошивка для HUSKYLENS и Kendryte K210.
@@ -56,9 +56,10 @@
 - [pdf-scripts](https://github.com/aztechell/pdf-scripts) - маленькие PDF-скрипты.
 - [Label_Studio_Launcher](https://github.com/aztechell/Label_Studio_Launcher) - launcher для Label Studio.
 
-## APPS
+## Apps
 
 - [azdeck](https://github.com/aztechell/azdeck) - руководство и примеры прошивок для подключения ESP32 и ESP8266 к приложению AzDeck.
+- [azdeck-lib](https://github.com/aztechell/azdeck-lib) - Arduino-библиотека для получения именованных каналов управления из приложения AzDeck.
 
 ## Other stuff
 
