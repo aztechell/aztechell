@@ -1,10 +1,10 @@
-# Azat
+# Azat / Азат
 
-Меня зовут Азат, я робототехник, вайбкодер.
+Меня зовут Азат, я робототехник и вайбкодер. Делаю инструменты, прошивки и учебные материалы для робототехники и экспериментов с ИИ.
 
 Разбираюсь в LEGO EV3, Spike Prime, Arduino, ESP, Raspberry Pi, Jetson Nano.
 
-Вот что я делал:
+Вот мои проекты:
 
 ## WRO
 
@@ -58,7 +58,7 @@
 
 ## Apps
 
-- [azdeck](https://github.com/aztechell/azdeck) - руководство и примеры прошивок для подключения ESP32 и ESP8266 к приложению AzDeck.
+- [azdeck](https://github.com/aztechell/azdeck) - руководство и примеры прошивок для подключения ESP32 и ESP8266 к приложению AzDeck. [AzDeck в Google Play](https://play.google.com/store/apps/details?id=com.aztechell.azdeck)
 - [azdeck-lib](https://github.com/aztechell/azdeck-lib) - Arduino-библиотека для получения именованных каналов управления из приложения AzDeck.
 - [azdeck-pybricks](https://github.com/aztechell/azdeck-pybricks) - библиотека для подключения Pybricks-хабов к AzDeck по Bluetooth.
 
