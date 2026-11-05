@@ -40,7 +40,7 @@
 
 ## Knowledge
 
-- [AI-in-robotics](https://github.com/aztechell/AI-in-robotics) - простые уроки по ИИ в робототехнике. [Live](https://aztechell.github.io/AI-in-robotics/) [ai-in-robo.xyz](https://ai-in-robo.xyz/)
+- [AI-in-robotics](https://github.com/aztechell/AI-in-robotics) - простые уроки по ИИ в робототехнике. [Live](https://aztechell.github.io/AI-in-robotics/)
 - [Pybricks-Cookbook](https://github.com/aztechell/Pybricks-Cookbook) - шпаргалки и примеры по Pybricks. [Live](https://aztechell.github.io/Pybricks-Cookbook/)
 - [legosport](https://github.com/aztechell/legosport) - уроки EV3.
 - [matrix_r4_experiments](https://github.com/aztechell/matrix_r4_experiments) - информация по MATRIX R4. [Live](https://aztechell.github.io/matrix_r4_experiments/)
@@ -60,8 +60,11 @@
 
 - [azdeck](https://github.com/aztechell/azdeck) - руководство и примеры прошивок для подключения ESP32 и ESP8266 к приложению AzDeck.
 - [azdeck-lib](https://github.com/aztechell/azdeck-lib) - Arduino-библиотека для получения именованных каналов управления из приложения AzDeck.
+- [azdeck-pybricks](https://github.com/aztechell/azdeck-pybricks) - библиотека для подключения Pybricks-хабов к AzDeck по Bluetooth.
 
 ## Other stuff
+
+- [AzLedStrip](https://github.com/aztechell/ledstrip_matter) - прошивка Matter для адресной светодиодной ленты на ESP32-C3.
 
 - [KazPER](https://github.com/aztechell/KazPER) - Tinder-style выбор казахских имен. [Live](https://aztechell.github.io/KazPER/)
 - [PyGameMaze](https://github.com/aztechell/PyGameMaze) - игра на PyGame.
