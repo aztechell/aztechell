@@ -4,6 +4,8 @@
 
 Разбираюсь в LEGO EV3, Spike Prime, Arduino, ESP, Raspberry Pi, Jetson Nano.
 
+![Robot assembly animation](assets/robot-assembly.gif)
+
 Вот мои проекты:
 
 ## WRO
