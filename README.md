@@ -4,7 +4,7 @@
 
 Разбираюсь в LEGO EV3, Spike Prime, Arduino, ESP, Raspberry Pi, Jetson Nano.
 
-![Robot assembly animation](assets/robot-assembly.gif)
+<img src="assets/robot-assembly.gif" alt="Robot assembly animation" width="600">
 
 Вот мои проекты:
 
